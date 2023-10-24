@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="CTS.T4API" Version="*" />
+		<PackageReference Include="CTS.T4Definitions" Version="*" />
+		<PackageReference Include="CTS.T4TraceListener" Version="*" />
+		<PackageReference Include="CTS.T4Connections" Version="*" />
+		<PackageReference Include="CTS.T4Data" Version="*" />
+		<PackageReference Include="CTS.T4Messages" Version="*" />
+	</ItemGroup>
+</Project>
