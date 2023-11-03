@@ -7,14 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTS_DEPENDENCY_ERROR", "CTS
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF84AC60-DA1B-4773-9730-96C58EBF54FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF84AC60-DA1B-4773-9730-96C58EBF54FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF84AC60-DA1B-4773-9730-96C58EBF54FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF84AC60-DA1B-4773-9730-96C58EBF54FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF84AC60-DA1B-4773-9730-96C58EBF54FC}.Debug|x64.ActiveCfg = Debug|x64
+		{EF84AC60-DA1B-4773-9730-96C58EBF54FC}.Debug|x64.Build.0 = Debug|x64
+		{EF84AC60-DA1B-4773-9730-96C58EBF54FC}.Release|x64.ActiveCfg = Release|x64
+		{EF84AC60-DA1B-4773-9730-96C58EBF54FC}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

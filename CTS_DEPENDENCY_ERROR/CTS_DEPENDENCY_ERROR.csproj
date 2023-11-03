@@ -13,5 +13,6 @@
 		<PackageReference Include="CTS.T4Connections" Version="*" />
 		<PackageReference Include="CTS.T4Data" Version="*" />
 		<PackageReference Include="CTS.T4Messages" Version="*" />
+		<PackageReference Include="System.Data.SQLite.Core" Version="1.0.118" />
 	</ItemGroup>
 </Project>

@@ -12,6 +12,7 @@ namespace CTS_Error_Demonstration
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine(System.Runtime.InteropServices.RuntimeInformation.ProcessArchitecture.ToString());
             Host host = new(
                 APIServerType.Simulator,
                 "T4Example",
