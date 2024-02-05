@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTS_DEPENDENCY_ERROR", "CTS_DEPENDENCY_ERROR\CTS_DEPENDENCY_ERROR.csproj", "{EF84AC60-DA1B-4773-9730-96C58EBF54FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTSMultiUserErr", "CTSMultiUserErr\CTSMultiUserErr.csproj", "{EF84AC60-DA1B-4773-9730-96C58EBF54FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
